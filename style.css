@@ -1,4 +1,8 @@
 body {
-    background-color: black;
-    color: aliceblue;
+    background-color: #000000;
+    color: #F6F1F1; 
+}
+
+strong {
+    color: #19A7CE;
 }
