@@ -6,7 +6,7 @@
 }
 
 body {
-    height: 100vh;
+    /* height: 100vh; */
     box-sizing: border-box;
     background-color: #000000;
     color: #F6F1F1; 
@@ -16,7 +16,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 5% 15%;
+    padding: 5% 10%;
 }
 
 .titulo-destaque {
@@ -76,7 +76,17 @@ body {
 }
 
 .foto {
-    /* width: 467px;
-    height: 523px; */
+    /* width: 467px; */
+    height: 450px;
     border-radius: 16px;
+}
+
+.rodape {
+    color: #000000;
+    background-color: #19A7CE;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
 }
