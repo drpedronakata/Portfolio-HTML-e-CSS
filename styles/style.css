@@ -18,7 +18,6 @@
 }
 
 body {
-    /* height: 100vh; */
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria); 
@@ -88,7 +87,6 @@ body {
 }
 
 .apresentacao__links__link {
-    /* background-color: #19A7CE; */
     display: flex;
     justify-content: center;
     gap: 16px;
