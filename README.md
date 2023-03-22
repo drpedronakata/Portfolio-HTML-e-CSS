@@ -2,7 +2,7 @@
 
 Projeto do Curso de HTML/CSS da Alura
 
-![Print da Pagina]()
+![Print da Pagina](./assets/Screenshot.png)
 
 ## Ferramentas utilizadas:
 
