@@ -20,7 +20,7 @@
 body {
     box-sizing: border-box;
     background-color: var(--cor-primaria);
-    color: var(--cor-secundaria); 
+    color: var(--cor-secundaria);
 }
 
 .cabecalho {
@@ -52,7 +52,7 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 615px;
+    width: 66%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -96,7 +96,7 @@ body {
     font-weight: 600;
     font-size: 1.5rem;
     text-align: center;
-    width: 378px;
+    width: 60%;
     padding: 21.5px 0;
     border-radius: 8px;
     border: 2px solid var(--cor-terciaria);
@@ -106,9 +106,9 @@ body {
     background-color: var(--cor-hover-botao);
 }
 
-.foto {
-    /* width: 467px; */
-    height: 450px;
+.apresentacao__foto {
+    /* height: 450px; */
+    width: 33%;
     border-radius: 16px;
 }
 
