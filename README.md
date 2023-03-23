@@ -21,7 +21,13 @@ O Projeto faz parte de cursos sequenciais, segue os cursos:
 
 ## Tarefas
 
-Ainda é necessario melhoras a responsividade no mobile, modificando as distancias, tamanho, fontes.
+Ainda é necessario melhorar a responsividade no mobile, modificando as distancias, tamanho, fontes.
+
+## Criador
+
+### Pedro Henrique Nakata
+
+<p> Começei o projeto desdo o curso 1, atualizando passo-a-passo até o curso 4 final. </p>
 
 ## Links dos materiais
 
