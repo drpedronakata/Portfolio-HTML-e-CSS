@@ -14,10 +14,10 @@ Projeto do Curso de HTML/CSS da Alura
 
 O Projeto faz parte de cursos sequenciais, segue os cursos:
 
-* HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (Finalizado)
-* HTML e CSS: Classes, posicionamento e Flexbox (Finalizado)
-* HTML e CSS: cabeçalho, footer e variáveis CSS (Finalizado)
-* HTML e CSS: trabalhando com responsividade e publicação de projetos (Finalizado)
+* HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags (8h)
+* HTML e CSS: Classes, posicionamento e Flexbox (8h)
+* HTML e CSS: cabeçalho, footer e variáveis CSS (6h)
+* HTML e CSS: trabalhando com responsividade e publicação de projetos (6h)
 
 ## Tarefas
 
@@ -30,6 +30,8 @@ Ainda é necessario melhorar a responsividade no mobile, modificando as distanci
 <p> Começei o projeto desdo o curso 1, atualizando passo-a-passo até o curso 4 final. </p>
 
 ## Links dos materiais
+
+* [Formação HTML/CSS](https://cursos.alura.com.br/formacao-html-css)
 
 * [Curso HTML/CSS da Alura](https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos)
 
